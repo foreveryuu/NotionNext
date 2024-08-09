@@ -92,7 +92,6 @@ const BLOG = {
     // '"LXGW WenKai"',
     '"Noto Serif TC"',
     'Bitter',
-    '"Noto Serif SC"',
     'SimSun',
     '"Times New Roman"',
     'Times',
